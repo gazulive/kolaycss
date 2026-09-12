@@ -42,7 +42,7 @@ EN : Include the `kolaycss.js` file in your HTML document (preferably in the `<h
 TR : `kolaycss.js` dosyasını HTML belgenize ekleyin (tercihen `<head>` etiketleri arasına veya kapanan `<body>` etiketinden hemen önce):
 
 ```html
-<script src="[https://cdn.jsdelivr.net/gh/muharremy27/kolaycss@main/kolaycss.min.js](https://cdn.jsdelivr.net/gh/muharremy27/kolaycss@main/kolaycss.min.js)"></script>
+<script src="https://cdn.jsdelivr.net/gh/muharremy27/kolaycss@main/kolaycss.min.js?v=1.2"></script>
 
 
 
