@@ -37,12 +37,25 @@
 
 ### Installation & Usage  [ Kurulum ]
 
+**Javascript**
+
 EN : Include the `kolaycss.js` file in your HTML document (preferably in the `<head>` or just before the closing `<body>` tag):
 
 TR : `kolaycss.js` dosyasını HTML belgenize ekleyin (tercihen `<head>` etiketleri arasına veya kapanan `<body>` etiketinden hemen önce):
 
 ```html
 <script src="https://cdn.jsdelivr.net/gh/muharremy27/kolaycss@main/kolaycss.min.js?v=1.2"></script>
+```
+**CSS**
+
+EN: If you prefer traditional CSS styling instead of JavaScript injection, link the CSS file directly in your `<head>`:
+
+TR: JavaScript enjeksiyonu yerine geleneksel CSS kullanımını tercih ediyorsanız, stil dosyasını doğrudan `<head>` alanına ekleyin:
+
+```html
+<script src="https://cdn.jsdelivr.net/gh/muharremy27/kolaycss@main/kolaycss.css?v=1.2"></script>
+```
+
 
 
 
