@@ -28,4 +28,15 @@
 Include the `kolaycss.js` file in your HTML document (preferably in the `<head>` or just before the closing `<body>` tag):
 
 ```html
-<script src="[https://cdn.jsdelivr.net/gh/your-username/kolaycss@main/kolaycss.min.js](https://cdn.jsdelivr.net/gh/your-username/kolaycss@main/kolaycss.min.js)"></script>
+<script src="[https://cdn.jsdelivr.net/gh/your-username/kolaycss@main/kolaycss.min.js](https://cdn.jsdelivr.net/gh/your-username/kolaycss@main/kolaycss.min.js)"></script>```
+
+---
+
+## tr Türkçe
+
+### KolayCss nedir?
+
+
+
+
+
