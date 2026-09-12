@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <a href="#us-english">English</a> • <a href="#tr-türkçe">Türkçe</a>
+  <a href="#us-english">English</a> • <a href="#tr-türkçe">Türkçe</a><a href="https://kolaycss.liste.site">KolayCss WebSite</a>
 </div>
 
 ---
