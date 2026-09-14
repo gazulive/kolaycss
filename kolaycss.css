@@ -2,12 +2,12 @@
    KolayCSS v1.2 - Kullanımı kolay CSS framework'ü
    ------------------------------------------------------------
    Kullanım şekli 1 (klasik):
-     <link rel="stylesheet" href="framework.css">
+     <link rel="stylesheet" href="kolaycss.css">
 
    Kullanım şekli 2 (JS ile, <style> enjeksiyonu):
      <link> eklemeyin, sadece:
-     <script src="framework.js"></script>
-     framework.js sayfada KULLANILAN sınıfları tarar ve sadece
+     <script src="kolaycss.min.js"></script>
+     kolaycss.min.js sayfada KULLANILAN sınıfları tarar ve sadece
      o kuralları <style> etiketi olarak otomatik ekler. Tüm
      CSS'i değil, yalnızca gerekli olanları gönderir.
 
