@@ -1,29 +1,28 @@
 /* ============================================================
-   KolayCSS v1.2 - Kullanımı kolay CSS framework'ü
+   KolayCSS v1.2 - Easy-to-use CSS framework
    ------------------------------------------------------------
-   Kullanım şekli 1 (klasik):
-     <link rel="stylesheet" href="kolaycss.css">
+   Usage method 1 (classic):
+      <link rel="stylesheet" href="kolaycss.css">
 
-   Kullanım şekli 2 (JS ile, <style> enjeksiyonu):
-     <link> eklemeyin, sadece:
-     <script src="kolaycss.min.js"></script>
-     kolaycss.min.js sayfada KULLANILAN sınıfları tarar ve sadece
-     o kuralları <style> etiketi olarak otomatik ekler. Tüm
-     CSS'i değil, yalnızca gerekli olanları gönderir.
+   Usage method 2 (via JS, <style> injection):
+      Do not add <link>, just use:
+      <script src="kolaycss.min.js"></script>
+      kolaycss.min.js scans the classes USED on the page and 
+      automatically injects only those rules as a <style> tag. 
+      It sends only the necessary CSS, not the entire stylesheet.
 
-   Renk sistemi:
-     Bootstrap'in paletinden bağımsız, kendi renk takımı.
-     Her dolgu + yazı rengi çifti WCAG AA (en az 4.5:1) kontrast
-     geçer. Temel renkler: primary, secondary, success, danger,
-     warning, info, light, dark. Ek buton renkleri: purple,
-     indigo, teal, orange, rose, fuchsia. Her buton renginin
-     kendine ait dolgu/yazı ve hover rengi vardır (link
-     renginden bağımsız token'lar).
+   Color system:
+      An independent color set, separate from Bootstrap's palette.
+      Every background + text color pair passes WCAG AA 
+      (at least 4.5:1) contrast. Base colors: primary, secondary, 
+      success, danger, warning, info, light, dark. Additional 
+      button colors: purple, indigo, teal, orange, rose, fuchsia. 
+      Each button color has its own background/text and hover color 
+      (tokens independent of the link color).
 
-   Bileşenler: grid, butonlar (düz / anahat / yumuşak / beyaz /
-   bağlantı / boyutlar / hap), kartlar, uyarılar, rozetler,
-   menü çubuğu, tablolar, formlar, ilerleme çubuğu, yükleyiciler,
-   liste grubu ve yardımcı sınıflar.
+   Components: grid, buttons (flat / outline / soft / white / 
+   link / sizes / pill), cards, alerts, badges, navbar, tables, 
+   forms, progress bar, loaders, list group, and utility classes.
    ============================================================ */
 
 /* ---------- 0. Renk değişkenleri (özel palet) ---------- */
