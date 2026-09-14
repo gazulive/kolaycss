@@ -2,7 +2,7 @@
    KolayCSS v1.2 - framework.js
    ------------------------------------------------------------
    Bu dosya framework.css icindeki tum stil kurallarini ayrilmis
-   veri olarak tasir (build-framework-js.ps1 tarafindan uretilir).
+   veri olarak tasir (build-kolaycss-js.ps1 tarafindan uretilir).
 
    Sayfa yuklendiginde bu betik once HTML'i tarar, KULLANILAN
    sinif/etiket/oznitelikleri toplar ve yalnizca o kurallari
@@ -10,9 +10,9 @@
    Boylece sayfada kullanilmayan kurallar enjekte edilmez.
 
    Kullanim:
-     <script src="framework.js"></script>
+     <script src="kolaycss.js"></script>
 
-   NOT: framework.css degistiginde betigi tekrar calistirin:
+   NOT: kolaycss.css degistiginde betigi yani sayfayı yenileyin tekrar calistirin:
    powershell -File build-framework-js.ps1
    ============================================================ */
 (function () {
